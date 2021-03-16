@@ -1,6 +1,6 @@
-# Prueba Tópicos Agenda :computer:
+# Proyecto Final Tópicos Especiales :computer:
 
-## Agenda desarrollada con Android Studio :iphone:
+## Juego En UNITY 
 
 ## Integrantes de grupo : 
 
@@ -8,15 +8,15 @@
 * *Josue Garrido* 
 * *Xavier Jaramillo*
 
-Agenda desarrollada Android Studio, la aplicacion APK ya instalada en un dispositvo permitira crear, editar y borrar contactos que conjutamente se iran guardando en Firebase de Google, los registros de los usuarios se iran guardando constantemente.
 
-:mailbox: :email:
-
-* Con la funcionalidad de CRUD ---> Create & Read
 
 ## Observaciones:
 
-* *Se Necesita versión de Android 6 o más
+* *Se Necesita versión de Android 4 o más
 
 ## Enlace del video
-Clic en el siguiente enlace [Video explicativo de la aplicación ](https://youtu.be/JnjdHtM69pU). :white_check_mark:
+Clic en el siguiente enlace [Video realziación del juego ](). :white_check_mark:
+Clic en el siguiente enlace [Video funcionamineto del juego ](). :white_check_mark:
+
+## Enlace al APK
+Clic en el siguiente enlace [Descarga el apk en tu celular](). :phone:
