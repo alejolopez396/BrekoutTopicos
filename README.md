@@ -1,6 +1,6 @@
 # Proyecto Final Tópicos Especiales :video_game:
 
-## Juego Realizado En UNITY :space_invader:
+## Juego Realizado En UNITY (BREAKOUT) :space_invader:
 
 ## Integrantes de grupo : 
 
