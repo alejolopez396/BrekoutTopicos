@@ -12,7 +12,7 @@
 
 ## Observaciones:
 
-* *Se Necesita versión de Android 4 o más
+* *Se Necesita versión de Android 4.4 KitKat o más
 
 ## Enlace del video
 Clic en el siguiente enlace [Video explicativo del código ](). :computer:
