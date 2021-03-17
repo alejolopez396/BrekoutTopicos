@@ -16,7 +16,7 @@
 | ----------------------  | -------------------         |
 | Charlie López           | Desarrolador Código         |
 | Xavier Jaramillo        | Diseñador Interfaz          |
-| Josue Garrido           | Administracion google play  |
+| Josue Garrido           | Administración Google Play  |
 | Jefferson Llumiquinga   | Tester                      |
 | Mauricio Rodriguez      | Tester                      |
 
