@@ -11,13 +11,14 @@
 * *Mauricio Rodriguez* :grinning:
 
 
-## TABLA DE OBSERVACIONES: 
-| Evaluación              | Valoración |
-| ----------------------  | ---------- |
-| Deberes videos          | 20%        |
-| Prueba parcial          | 20%        |
-| Trabajo grupal          | 30%        |
-| Examen                  | 30%        |
+## TABLA DE OBSERVACIONES :trophy: : 
+| Integrantes             | Responsabilidades           |
+| ----------------------  | -------------------         |
+| Charlie López           | Desarrolador Código         |
+| Xavier Jaramillo        | Diseñador Interfaz          |
+| Josue Garrido           | Administracion google play  |
+| Jefferson Llumiquinga   | Tester                      |
+| Mauricio Rodriguez      | Tester                      |
 
 ## Observaciones:
 
