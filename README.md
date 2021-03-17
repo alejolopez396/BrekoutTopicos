@@ -7,7 +7,8 @@
 * *Charlie Lopez* :sunglasses:
 * *Josue Garrido* :smile:
 * *Xavier Jaramillo* :grin:
-
+* *Jefferson Llumiquinga* :wink:
+* *Mauricio Rodriguez* :grinning:
 
 
 ## Observaciones:
