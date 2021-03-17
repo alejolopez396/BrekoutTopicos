@@ -11,6 +11,14 @@
 * *Mauricio Rodriguez* :grinning:
 
 
+## TABLA DE OBSERVACIONES: 
+| Evaluación              | Valoración |
+| ----------------------  | ---------- |
+| Deberes videos          | 20%        |
+| Prueba parcial          | 20%        |
+| Trabajo grupal          | 30%        |
+| Examen                  | 30%        |
+
 ## Observaciones:
 
 * *Se Necesita versión de Android 4.4 KitKat o más :warning:
