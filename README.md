@@ -28,4 +28,4 @@
 Clic en el siguiente enlace [Video explicativo del código y jugabilidad en un dispositivo](). :computer:
 
 ## Enlace al APK
-Clic en el siguiente enlace [Descarga el apk en tu celular]("https://github.com/alejolopez396/BrekoutTopicos/raw/master/APK/Breakout.apk"). :iphone:
+Clic en el siguiente enlace [Descarga el apk en tu celular]('https://github.com/alejolopez396/BrekoutTopicos/raw/master/APK/Breakout.apk'). :iphone:
