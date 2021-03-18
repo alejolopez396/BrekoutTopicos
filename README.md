@@ -25,7 +25,7 @@
 * *Se Necesita versión de Android 4.4 KitKat o más :warning:
 
 ## Enlace del video
-Clic en el siguiente enlace [Video explicativo del código y jugabilidad en un dispositivo](). :computer:
+Clic en el siguiente enlace [Video explicativo del código y jugabilidad en un dispositivo](https://youtu.be/NfHXZb4z__U). :computer:
 
 ## Enlace al APK
 Clic en el siguiente enlace [Descarga el apk en tu celular](https://github.com/alejolopez396/BrekoutTopicos/raw/master/APK/Breakout.apk). :iphone:
